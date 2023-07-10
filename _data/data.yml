@@ -8,27 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Joshua McKettrick
+    tagline: Computer Engineering Student at University of Cincinnati
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: mckettja@mail.uc.edu
+    phone: 513 250 6989
+    timezone: United States - Eastern Daylight Time
+    linkedin: https://www.linkedin.com/in/joshua-mckettrick/
+    github: https://github.com/mckettja
 
     languages:
       title: Languages
@@ -36,19 +25,16 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: German
+          level: Intermmediate
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hiking
           link:
 
-        - item: Snowboarding
+        - item: Traveling
           link:
 
         - item: Cooking
@@ -66,20 +52,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelors in Computer Engineering
+        university: University of Cincinnati
+        time: 2019 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -91,43 +66,24 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Quality Engineer Co-op
+        time: August 2022 - December 2022
+        company: Milacron
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          -	Designed, tested, and modified nonconformance reporting module in Intelex software to be implemented for manufacturing site.
+          -	Created Intelex work instructions and led training sessions for approximately 300 users across several departments.
+          -	Collaborated with 3rd party consultants on project schedule, design, and software rollout procedure.
+          -	Transferred over 200 localized company documents into Intelex’s cloud-based module for controlled documents and modified them to follow ISO 9001 requirements.
+
+      - role: Warranty Engineer Co-op
+        time: January 2022 - May 2022 and May 2021 - August 2022
+        company: Valeo Climate Control
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          -	Received warranty claim parts, documented part details in large data sheets, and analyzed data for failure trends in a manufacturing site.
+          -	Performed extensive testing on automotive HVAC units to troubleshoot plant production efficiency and quality.
+          -	Designed reports for my supervisor to present directly to customers including Ford, GM, Mercedes, and Volkswagen.
+          -	Organized open warranty claim parts in a laboratory to easily locate for further analysis.
+
 
 certifications:
       title: Certifications
