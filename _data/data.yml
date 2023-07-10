@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -67,7 +67,7 @@ experiences:
     title: Experiences
     info:
       - role: Quality Engineer Co-op
-        time: August 2022 - December 2022
+        time: 08/2022 - 12/2022
         company: Milacron
         details: |
           -	Designed, tested, and modified nonconformance reporting module in Intelex software to be implemented for manufacturing site.
@@ -76,7 +76,7 @@ experiences:
           -	Transferred over 200 localized company documents into Intelex’s cloud-based module for controlled documents and modified them to follow ISO 9001 requirements.
 
       - role: Warranty Engineer Co-op
-        time: January 2022 - May 2022 and May 2021 - August 2022
+        time: 01/2022 - 05/2022 and 05/2021 - 08/2022
         company: Valeo Climate Control
         details: |
           -	Received warranty claim parts, documented part details in large data sheets, and analyzed data for failure trends in a manufacturing site.
@@ -133,88 +133,30 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Summer Emerging Professional Experiential Exploration Program (EEP)
+        link: "https://github.com/mckettja/Summer2023EEP"
+        tagline: "A static social media page based in React.js. This project was designed to showcase skills learned in online coding lessons. "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Moneyline Software Engineering Project
+        link: "https://github.com/EECE3093C/team-project-the-over-under"
+        tagline: "A group based software engineering project. This was done with a group of 5 students including myself, and managed with GitHub Projects"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Languages &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C++
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML/CSS
+        level: 80%
+
+      - name: Javascript
+        level: 75%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
