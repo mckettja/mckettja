@@ -173,6 +173,7 @@ p {
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
+    font-weight: bold;
   }
   .section {
     margin-bottom: 60px;
@@ -200,7 +201,7 @@ p {
     margin-bottom: 0;
     font-weight: 500;
     flex: 75%;
-    font-style: bold;
+    font-weight: bold;
   }
   .time,
   .cert-url {
