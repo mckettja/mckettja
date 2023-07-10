@@ -14,10 +14,10 @@ sidebar:
 
     # Sidebar links
     email: mckettja@mail.uc.edu
-    phone: +1 (513)250-6989
+    phone: +1 (513) 250 - 6989
     timezone: United States - Eastern Daylight Time
-    linkedin: "https://www.linkedin.com/in/joshua-mckettrick/"
-    github: "https://github.com/mckettja"
+    linkedin: joshua-mckettrick
+    github: mckettja
 
     languages:
       title: Languages
@@ -43,26 +43,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am currently seeking opportunities to for a full-time career as an emerging Computer Engineering student. I have proven leadership skills and 
+      will work efficiently to deliver project objectives based on set timing. I am detail oriented, with strong ability to communicate effectively with 
+      team members and superiors from all areas of industry. I am able to confidently convey engineering topics between peers in different fields to ensure
+      company-wide success.
 education:
     title: Education
     info:
-      - degree: Bachelors in Computer Engineering
+      - degree: Bachelor's in Computer Engineering
         university: University of Cincinnati
-        time: 2019 - 2024
+        time:  08/2019 - 05/2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Completion of a bachelor's degree is based on a 5 years of study. This is because the University of Cincinnati College of Engineering and Applied
+          Science integrates cooperative education, which requires the student to complete a total of 4 co-op (or experiential exploration program) experiences.
+          Similar to an internship, these allow me to have experience in a company environment to prepare me for a career after college.
 experiences:
     title: Experiences
     info:
@@ -88,50 +82,32 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Code Academy Online Coding Lessons
+          start: 04/2023
+          end: 08/2023
+          organization: Code Academy
+          credentialurl: www.codeacademy.com
+          credentialname: Code Academy
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            A list of completed lessons in Code Academy. These lessons were chosen to expand my learning for my "Summer Emerging Professional Experiential 
+            Exploration Program (EEP)". 
+            Lessons completed:
+            - Learn JavaScript Fundamentals
+            - Introduction to JavaScript
+            - Learn HTML
+            - Learn CSS
+            - Learn React
+            - Learn React Native
+            - Build Interactive Websites
+            - Learn JavaScript unit testing
+            - Learn Intermmediate JavaScript
+            - Learn TypeScript
+
         
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a collection of GitHub projects displaying my skills.
     assignments:
       - title: Summer Emerging Professional Experiential Exploration Program (EEP)
         link: "https://github.com/mckettja/Summer2023EEP"
@@ -151,7 +127,7 @@ skills:
       - name: C++
         level: 85%
 
-      - name: HTML/CSS
+      - name: HTML / CSS
         level: 80%
 
       - name: Javascript
