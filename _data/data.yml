@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: mckettja@mail.uc.edu
     phone: +1 (513) 250 - 6989
-    timezone: United States - Eastern Daylight Time
+    timezone: Eastern Daylight Time (USA)
     linkedin: joshua-mckettrick
     github: mckettja
 
@@ -44,9 +44,8 @@ career-profile:
     title: Career Profile
     summary: |
       I am currently seeking opportunities to for a full-time career as an emerging Computer Engineering student. I have proven leadership skills and 
-      will work efficiently to deliver project objectives based on set timing. I am detail oriented, with strong ability to communicate effectively with 
-      team members and superiors from all areas of industry. I am able to confidently convey engineering topics between peers in different fields to ensure
-      company-wide success.
+      will work efficiently to deliver project objectives based on set timing. I am detail oriented, with a strong ability to communicate effectively with 
+      team members and superiors. I am also able to confidently convey engineering topics between peers in different fields to ensure company-wide success.
 education:
     title: Education
     info:
@@ -106,7 +105,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      This is a collection of GitHub projects displaying my skills.
+      This is a collection of GitHub projects displaying my skills. Click on the title to be taken to the public GitHub repositories.
     assignments:
       - title: Summer Emerging Professional Experiential Exploration Program (EEP)
         link: "https://github.com/mckettja/Summer2023EEP"
