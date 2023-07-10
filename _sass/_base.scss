@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
   background: rgb(39, 39, 39);
-  font-size: 20px;
+  font-size: 18px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -175,7 +175,7 @@ p {
   }
   .section {
     margin-bottom: 60px;
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .experiences-section,
@@ -195,7 +195,7 @@ p {
   .degree,
   .cert-title{
     color: $theme-color;
-    font-size: 24px;
+    font-size: 20px;
     margin-top: 0;
     margin-bottom: 0;
     flex: 75%;
