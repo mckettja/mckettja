@@ -44,8 +44,10 @@ career-profile:
     title: Career Profile
     summary: |
       I am currently seeking opportunities to for a full-time career as an emerging Computer Engineering student. I have proven leadership skills and 
-      will work efficiently to deliver project objectives based on set timing. I am detail oriented, with a strong ability to communicate effectively with 
-      team members and superiors. I am also able to confidently convey engineering topics between peers in different fields to ensure company-wide success.
+      will work efficiently to deliver project objectives based on set timing. 
+      
+      I am detail oriented, with a strong ability to communicate effectively with team members and superiors. I am also able to confidently convey 
+      engineering topics between peers in different fields to ensure company-wide success.
 education:
     title: Education
     info:
@@ -55,6 +57,7 @@ education:
         details: |
           Completion of a bachelor's degree is based on a 5 years of study. This is because the University of Cincinnati College of Engineering and Applied
           Science integrates cooperative education, which requires the student to complete a total of 4 co-op (or experiential exploration program) experiences.
+
           Similar to an internship, these allow me to have experience in a company environment to prepare me for a career after college.
 experiences:
     title: Experiences
