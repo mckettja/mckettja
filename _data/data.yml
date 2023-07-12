@@ -112,7 +112,7 @@ projects:
         tagline: "A group based software engineering project. This was done with a group of 5 students including myself, and managed with GitHub Projects"
 
 skills:
-    title: Programming Languages &amp; Proficiency
+    title: Computer Languages &amp; Proficiency
 
     toolset:
       - name: Python
