@@ -53,14 +53,13 @@ p {
   }
   .profile-container {
     padding: 30px;
-    //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
   }
   .name {
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 700;
     margin-top: 0;
     margin-bottom: 10px;
   }
@@ -76,7 +75,6 @@ p {
   }
 
   .avatar {
-    //used for profile image
     max-width: 150px;
     margin-bottom: 15px;
     border: 0px solid #fff;

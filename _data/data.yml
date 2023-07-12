@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: right # position of the sidebar : left or right
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -41,7 +37,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       I am currently seeking opportunities to for a full-time career as an emerging Computer Engineering student. I have proven leadership skills and 
       will work efficiently to deliver project objectives based on set timing. I am detail oriented, with a strong ability to communicate effectively 
@@ -105,7 +101,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      This is a collection of GitHub projects displaying my skills. Click on the title to be taken to the public GitHub repositories.
+      This is a collection of GitHub projects displaying my skills. Click on the title to be taken to my public GitHub repositories.
     assignments:
       - title: Summer Emerging Professional Experiential Exploration Program (EEP)
         link: "https://github.com/mckettja/Summer2023EEP"
@@ -116,7 +112,7 @@ projects:
         tagline: "A group based software engineering project. This was done with a group of 5 students including myself, and managed with GitHub Projects"
 
 skills:
-    title: Languages &amp; Proficiency
+    title: Programming Languages &amp; Proficiency
 
     toolset:
       - name: Python
@@ -130,6 +126,7 @@ skills:
 
       - name: Javascript
         level: 75%
+
 
 
 footer: >
