@@ -106,9 +106,6 @@ projects:
         link: "https://github.com/mckettja/Summer2023EEP"
         tagline: "A static social media page based in React.js. This project was designed to showcase skills learned in online coding lessons. "
 
-      - title: Moneyline Software Engineering Project
-        link: "https://github.com/EECE3093C/team-project-the-over-under"
-        tagline: "A group based software engineering project. This was done with a group of 5 students including myself, and managed with GitHub Projects"
 
 skills:
     title: Computer Languages &amp; Proficiency
