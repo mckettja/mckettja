@@ -105,6 +105,9 @@ projects:
       - title: Summer Emerging Professional Experiential Exploration Program (EEP)
         link: "https://github.com/mckettja/Summer2023EEP"
         tagline: "A static social media page based in React.js. This project was designed to showcase skills learned in online coding lessons. "
+      - title: User Interface Project 1 - Smart Object Interface
+        link: "https://mckettja.github.io/UI_Project_1/"
+        tagline: "An interactive user interface for a theoretical 'smart' object. This is a project intended to practice principles of user interface design and documentation "
 
 
 skills:
