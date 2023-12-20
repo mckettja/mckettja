@@ -222,7 +222,7 @@ p {
     font-weight: bold;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($theme-color, 10%);
+    color: $theme-color;
   }
   .projects-section {
     .intro {
