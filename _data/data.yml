@@ -132,9 +132,9 @@ recommendations:
     intro: >
       This is a collection of any letters of recommendation I have recieved. Click the link to be routed to the letter PDF.
     letters:
-      - title: Elizabeth Pawley - Academic Advisor
+      - title: Elizabeth Pawley
         link: "https://github.com/mckettja/mckettja/blob/master/Joshua_McKettrick_LOR.pdf"
-        tagline: ""
+        tagline: "Academic Advisor"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
