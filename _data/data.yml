@@ -130,7 +130,7 @@ recommendations:
   title: Letter of Recommendation
     intro: >
       This is a collection of any letters of recommendation I have recieved. Click the link to be routed to the letter PDF.
-    letters:
+    assignments:
       - title: Elizabeth Pawley - Academic advisor
         link: "https://github.com/mckettja/mckettja/blob/master/Joshua_McKettrick_LOR.pdf"
 
