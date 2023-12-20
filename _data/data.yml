@@ -126,7 +126,9 @@ skills:
       - name: Javascript
         level: 75%
 
-
+recommendations:
+  title: Letter of Recommendation
+  link: "https://github.com/mckettja/mckettja/blob/master/Joshua_McKettrick_LOR.pdf"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
